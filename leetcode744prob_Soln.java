@@ -30,7 +30,7 @@ class Solution {
 
 
 /*or 2nd solution where we are returning start%letters.length value.
-
+*/
 class Solution {
     public char nextGreatestLetter(char[] letters, char target) {
         int start =0;
